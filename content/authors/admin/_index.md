@@ -118,9 +118,8 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+# of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 ---
 
 Roland J. Veen is a PhD Candidate in the Intelligent Systems group of the Bernoulli Institute of the University of Groningen. This site is under construction, so please disregard anything you see on this site until further notice, thank you.
-
-# of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
