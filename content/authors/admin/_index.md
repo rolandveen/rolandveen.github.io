@@ -11,7 +11,7 @@ last_name: Veen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍵
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,26 +25,27 @@ organizations:
     url: https://www.rug.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include -under construction-
+bio: My research interests include Machine Learning (AI), Medicine, Matlab and Python
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning (AI)
+  - Fundamental Computing Science
+  - Data Science
+  - Matlab
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+#    - course: PhD in Intelligent Systems
+#      institution: Stanford University
+#      year: 2029
+    - course: MSc in Computing Science; Intelligent Systems and Visual Computing
+      institution: University of Groningen
+      year: 2022
+    - course: BSc in Computing Science
+      institution: University of Groningen
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -54,7 +55,7 @@ skills:
       - name: MATLAB and Python
         description: ''
         percent: 80
-        icon: python
+        icon: matlab
         icon_pack: fab
       - name: Data Science
         description: ''
@@ -70,7 +71,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: NOT Hiking
+      - name: Singing
         description: ''
         percent: 60
         icon: person-hiking
