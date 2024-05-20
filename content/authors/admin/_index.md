@@ -30,7 +30,7 @@ bio: My research interests include Machine Learning (AI), Medicine, Matlab and P
 # Interests to show in About widget
 interests:
   - Machine Learning (AI)
-  - Fundamental Computing Science
+  - Fundamental Computing
   - Data Science
   - Matlab
 
@@ -52,29 +52,34 @@ education:
 skills:
   - name: Technical
     items:
-      - name: MATLAB and Python
+      - name: MATLAB
+        description: ''
+        percent: 95
+        icon: matlab-plain
+        icon_pack: devicon
+      - name: Python
         description: ''
         percent: 80
-        icon: matlab
+        icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 95
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Singing
+      - name: Music and Singing
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: music
         icon_pack: fas
       - name: Dogs
         description: ''
@@ -85,6 +90,11 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
+        icon_pack: fas
+      - name: Cooking
+        description: ''
+        percent: 75
+        icon: kitchen-set 
         icon_pack: fas
 
 # Social/Academic Networking
