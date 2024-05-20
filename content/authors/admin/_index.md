@@ -30,6 +30,8 @@ bio: My research interests include Machine Learning (AI), Medicine, Matlab and P
 # Interests to show in About widget
 interests:
   - Machine Learning (AI)
+  - Medicine
+  - Biochemistry
   - Fundamental Computing
   - Data Science
   - Matlab
